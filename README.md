@@ -39,7 +39,7 @@
 ---
 
 ### 💻 تقنياتي (Tech Stack)
-*بدلاً من الصور اليدوية، استخدمت لك لوحة أيقونات موحدة وأنيقة:*
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,git,github,vscode,linux,mysql,pycharm,anaconda,matlab,figma&theme=dark" />
