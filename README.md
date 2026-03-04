@@ -62,7 +62,7 @@
 
 ### 🐍 مساهماتي (Contribution Activity)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M3A3A/M3A3A/snake/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/M3A3A/M3A3A/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
