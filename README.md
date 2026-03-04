@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <table>
+    <p align="center">
   <tr>
     <td width="50%">
       <h3>🎓 نبذة عني</h3>
